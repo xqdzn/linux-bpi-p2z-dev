@@ -102,7 +102,7 @@
 	de: display-engine {
 		compatible = "allwinner,sun8i-h3-display-engine";
 		allwinner,pipelines = <&mixer0>;
-		status = "disabled";
+		status = "okay";
 	};
 
 	soc {
